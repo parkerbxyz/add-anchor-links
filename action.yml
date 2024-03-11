@@ -10,4 +10,4 @@ outputs:
     description: "The content with anchor links added"
 runs:
   using: "node16"
-  main: "index.js"
+  main: "dist/index.js"
