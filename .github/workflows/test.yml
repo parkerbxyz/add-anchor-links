@@ -9,5 +9,5 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
-  npm-test:
+  node:
     uses: parkerbxyz/.github/.github/workflows/npm-test.yml@main
