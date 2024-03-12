@@ -9,5 +9,5 @@ outputs:
   content:
     description: "The content with anchor links added"
 runs:
-  using: "node16"
+  using: "node20"
   main: "dist/index.js"

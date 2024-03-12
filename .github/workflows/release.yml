@@ -1,16 +1,16 @@
 ---
-  name: Release
+name: release-please
 
-  on:
-    push:
-      branches: [main]
+on:
+  push:
+    branches: [main]
 
-  permissions:
-    contents: write
-    pull-requests: write
+permissions:
+  contents: write
+  pull-requests: write
 
-  jobs:
-    release-please:
-      uses: parkerbxyz/.github/.github/workflows/release.yml@main
-      with:
-        release-type: "node"
+jobs:
+  release-please:
+    uses: parkerbxyz/.github/.github/workflows/release-please.yml@main
+    with:
+      release-type: "node"
