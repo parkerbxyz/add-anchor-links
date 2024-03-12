@@ -1,6 +1,7 @@
 {
   "name": "add-anchor-links",
   "description": "Adds anchor links to Markdown headings for use in issues",
+  "version": "1.0.0",
   "author": "Parker Brown",
   "license": "MIT",
   "type": "module",
@@ -23,6 +24,5 @@
     "@types/node": "^20.11.26",
     "@vercel/ncc": "^0.38.1",
     "ava": "^6.1.2"
-  },
-  "version": "1.0.0"
+  }
 }
