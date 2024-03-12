@@ -1,6 +1,9 @@
 ---
 name: "Add anchor links"
 description: "Adds anchor links to Markdown headings for use in issues"
+branding:
+  icon: 'anchor'
+  color: 'gray-dark'
 inputs:
   content:
     description: "The raw Markdown content that is missing anchor links"
