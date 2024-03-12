@@ -10,7 +10,7 @@ permissions:
   pull-requests: write
 
 jobs:
-  release-please:
+  release:
     uses: parkerbxyz/.github/.github/workflows/release-please.yml@main
     with:
       release-type: "node"
