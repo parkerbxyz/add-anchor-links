@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/parkerbxyz/add-anchor-links#readme",
   "dependencies": {
-    "@actions/core": "^1.10.1"
+    "@actions/core": "^1.11.1"
   },
   "devDependencies": {
     "@types/node": "^22.8.6",
