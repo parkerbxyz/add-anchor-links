@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.2...v1.0.3) (2024-11-01)
+
+
+### Bug Fixes
+
+* **deps:** bump @actions/core from 1.10.1 to 1.11.1 ([#18](https://github.com/parkerbxyz/add-anchor-links/issues/18)) ([cf1e92d](https://github.com/parkerbxyz/add-anchor-links/commit/cf1e92da9a56e95975d70b1b4e3b47f3a08ad20b))
+
 ## [1.0.2](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.1...v1.0.2) (2024-04-07)
 
 

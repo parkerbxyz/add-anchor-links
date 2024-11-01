@@ -1,7 +1,7 @@
 {
   "name": "add-anchor-links",
   "description": "Adds anchor links to Markdown headings for use in issues",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Parker Brown",
   "license": "MIT",
   "type": "module",
