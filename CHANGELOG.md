@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.4](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.3...v1.0.4) (2025-05-21)
+
+
+### Bug Fixes
+
+* **deps:** bump undici from 5.28.4 to 5.28.5 in the npm_and_yarn group ([#23](https://github.com/parkerbxyz/add-anchor-links/issues/23)) ([3503fc0](https://github.com/parkerbxyz/add-anchor-links/commit/3503fc0ff9563fae57be3445b03d649ee7317005))
+* **deps:** bump undici from 5.28.5 to 5.29.0 in the npm_and_yarn group ([#26](https://github.com/parkerbxyz/add-anchor-links/issues/26)) ([5dca2a1](https://github.com/parkerbxyz/add-anchor-links/commit/5dca2a1c4f1e940c9aff103df72509f9cadd6daf))
+
 ## [1.0.3](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.2...v1.0.3) (2024-11-01)
 
 
