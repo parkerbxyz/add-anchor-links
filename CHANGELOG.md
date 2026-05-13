@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.5](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.4...v1.0.5) (2026-05-13)
+
+
+### Bug Fixes
+
+* **deps:** bump @actions/core from 1.11.1 to 3.0.1 ([#33](https://github.com/parkerbxyz/add-anchor-links/issues/33)) ([1b7f343](https://github.com/parkerbxyz/add-anchor-links/commit/1b7f343374fe16d58743cd14e0d6c4eb54fd83fe))
+* **deps:** bump picomatch ([#36](https://github.com/parkerbxyz/add-anchor-links/issues/36)) ([321c925](https://github.com/parkerbxyz/add-anchor-links/commit/321c925af61df9277eda410bf50be1cb3b3a3c9c))
+
 ## [1.0.4](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.3...v1.0.4) (2025-05-21)
 
 
