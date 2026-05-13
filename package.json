@@ -5,6 +5,9 @@
   "author": "Parker Brown",
   "license": "MIT",
   "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
   "scripts": {
     "build": "ncc build",
     "test": "ava"
