@@ -24,8 +24,8 @@
     "@actions/core": "^3.0.1"
   },
   "devDependencies": {
-    "@types/node": "^25.9.1",
-    "@vercel/ncc": "^0.38.4",
+    "@types/node": "^26.0.1",
+    "@vercel/ncc": "^0.44.1",
     "ava": "^8.0.1"
   }
 }
