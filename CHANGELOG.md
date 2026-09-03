@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.7](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.6...v1.0.7) (2026-09-03)
+
+
+### Bug Fixes
+
+* **deps:** bump undici from 6.27.0 to 6.28.0 ([#49](https://github.com/parkerbxyz/add-anchor-links/issues/49)) ([39396ed](https://github.com/parkerbxyz/add-anchor-links/commit/39396eded3f78358176569b6ac65321dbc7133e3))
+
 ## [1.0.6](https://github.com/parkerbxyz/add-anchor-links/compare/v1.0.5...v1.0.6) (2026-06-23)
 
 
